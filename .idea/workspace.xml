@@ -4,7 +4,6 @@
     <list default="true" id="e3168f8e-55a3-4542-aa07-d04c3906bed4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LR.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player_data.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
