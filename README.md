@@ -2,7 +2,7 @@
 
 ## The task
 
-- The task involved using the Scikit-learn and pandas library and training a linear regression and multi layer perceptron regression model offered in order to try to predict the value of Premier League footballers based on their performance in the 2024/25 season
+- The task involved using the Scikit-learn and pandas libraries to train a linear regression and multi layer perceptron regression model offered in order to try to predict the value of Premier League footballers based on their performance in the 2024/25 season
 
 - The data was taken from a dataset available on Kaggle, which can be found through this link: https://www.kaggle.com/datasets/aesika/english-premier-league-player-stats-2425?resource=download
 
